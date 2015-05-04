@@ -1,0 +1,9 @@
+**/__pycache__/
+stockdataanalyzer/config.json
+env
+cover
+.coverage
+activate_env.bat
+run_tests.bat
+lint.html
+run_lint.bat
