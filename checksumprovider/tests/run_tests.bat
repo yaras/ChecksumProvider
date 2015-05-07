@@ -1,0 +1,1 @@
+nosetests --with-coverage --cover-html --cover-branches --cover-package=checksumprovider "."

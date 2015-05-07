@@ -1,0 +1,2 @@
+resources\text	xxxx
+resources\newfile.txt	yyyyy
